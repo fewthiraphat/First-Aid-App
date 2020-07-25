@@ -1,3 +1,3 @@
 # First-Aid-App
 First Aid Application เป็นแอพพลิเคชั่นที่จะบอกวิธีปฐมพยาบาลเบื้องต้นรวมถึงรวบรวมเบอร์โทรศัพท์ต่างๆตามหน่วยงานต่างๆที่เกี่ยวข้อง เพื่อให้สุขภาพและชีวิตของคุณปลอดภัย
-![Image](https://www.img.in.th/image/YIxXl9)
+![Image](https://www.picz.in.th/image/capture.EWpRX1)
